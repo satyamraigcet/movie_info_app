@@ -1,0 +1,25 @@
+#movies img, #movie img{
+  width:100%;
+}
+
+@media(min-width:960px){
+  #movies .col-md-3 .well{
+    height: 390px;
+  }
+
+  #movies .col-md-3 img{
+    height:240px;
+  }
+}
+body{
+    background-color:	#BA55D3;
+}
+
+.jumbotron{
+    border-radius :5px;
+    background-color:#473d36;
+     border: 2px solid #3e9363;
+    color: white;
+    
+    
+}
